@@ -1,4 +1,4 @@
-namespace aplicativo
+namespace API
 {
     public class WeatherForecast
     {
